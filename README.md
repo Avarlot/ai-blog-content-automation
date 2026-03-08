@@ -79,7 +79,7 @@ This allows content teams to generate structured article drafts automatically.
 
 Below is the automation scenario built in Make.com.
 
-![Automation Scenario](scenario.png)
+![Automation Scenario](make-blog-automation-workflow.png)
 
 ---
 
